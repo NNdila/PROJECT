@@ -1,6 +1,6 @@
 body {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background: url(IMAGES/2024\ Culinary\ Harmony_\ 30\ Kitchen\ Counter\ Organization\ Ideas\ for\ Blissful\ Cooking!.jpeg) no-repeat center center fixed;
+    font-family: Arial, sans-serif;
+    background: url('../images/background.jpg') no-repeat center center fixed;
     background-size: cover;
     color: white;
     text-align: center;
@@ -33,7 +33,7 @@ p {
 
 .btn {
     padding: 10px 20px;
-    background-color: rgba(211, 29, 214, 0.479);
+    background-color: rgba(40, 167, 69, 0.8);
     border: none;
     border-radius: 5px;
     color: white;
@@ -44,5 +44,6 @@ p {
 }
 
 .btn:hover {
-    background-color: rgba(205, 49, 222, 0.247);
+    background-color: rgba(40, 167, 69, 1);
 }
+
