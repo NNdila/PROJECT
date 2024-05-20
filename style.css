@@ -54,6 +54,12 @@ ul li{
     font-size: 14px;
 }
 
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+
 body {
     background-image: url('IMAGES/1.2.jpg');
     background-repeat: no-repeat;
