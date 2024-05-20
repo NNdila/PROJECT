@@ -6,7 +6,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(IMAGES/1.2.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(IMAGES/1.jpg);
     background-position: center;
     background-size: cover;
     height: 109vh;
@@ -86,6 +86,26 @@ ul li a:hover{
     padding: 10px;
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    background: rgb(171, 232, 110);
+    border: 2px solid darkgreen;
+    margin-top: 30px;
+    color: aliceblue;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.btn:focus{
+    outline: none;
+}
+
+.srch:focus{
+    outline: none;
 }
 
 body {
