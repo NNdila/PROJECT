@@ -47,6 +47,13 @@ ul{
     align-items: center;
 }
 
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
 body {
     background-image: url('IMAGES/1.2.jpg');
     background-repeat: no-repeat;
