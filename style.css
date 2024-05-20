@@ -62,6 +62,10 @@ ul li a{
     transition: 0.4s ease-in-out;
 }
 
+ul li a:hover{
+    color:chartreuse;
+}
+
 body {
     background-image: url('IMAGES/1.2.jpg');
     background-repeat: no-repeat;
