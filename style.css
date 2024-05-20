@@ -57,7 +57,9 @@ ul li{
 ul li a{
     text-decoration: none;
     color: aliceblue;
-    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
 }
 
 body {
