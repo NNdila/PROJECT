@@ -32,3 +32,11 @@
     float: left;
     padding-top: 10px;
 }
+
+
+body {
+    background-image: url('IMAGES/kitchen\ white.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
