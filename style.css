@@ -66,6 +66,19 @@ ul li a:hover{
     color:chartreuse;
 }
 
+.search{
+    width: 330px;
+    float: left;
+    margin-left: 270px;
+}
+
+.srch{
+    font-family: 'Franklin Gothic Medium';
+    width: 200px ;
+    height: 40px;
+    background: transparent;
+}
+
 body {
     background-image: url('IMAGES/1.2.jpg');
     background-repeat: no-repeat;
