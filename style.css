@@ -154,11 +154,74 @@ ul li a:hover{
     background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
     top: 350px;
-    left: 530px;
+    left: 500px;
     border-radius: 10px;
     padding: 25px;
-    
 
+}
+
+.form h2{
+    width: 220px;
+    font-family: Arial;
+    text-align: center;
+    color: rgb(171, 232, 110);
+    font-size: 22px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+    
+}
+
+.form input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid darkgreen;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: Arial;
+
+}
+
+.form input:focus{
+    outline: none;
+}
+
+::placeholder{
+    color: white;
+    font-family: Arial;
+
+}
+
+.btn{
+    width: 240px;
+    height: 40px;
+    background: rgb(171, 232, 110);
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    transition: 0.5s ease;
+}
+
+.btn:hover{
+    background: white;
+    color: rgb(171, 232, 110);
+    
+}
+
+.btn a{
+    text-decoration: none;
+    color: darkgreen;
+    font-weight: bold;
 }
 
 body {
