@@ -108,6 +108,14 @@ ul li a:hover{
     outline: none;
 }
 
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: aliceblue;
+    position: relative;
+}
+
 body {
     background-image: url('IMAGES/1.2.jpg');
     background-repeat: no-repeat;
