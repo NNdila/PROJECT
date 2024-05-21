@@ -148,6 +148,19 @@ ul li a:hover{
     background-color: rgb(171, 232, 110);
 }
 
+.form{
+    width: 250px;
+    height: 380px;
+    background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    position: absolute;
+    top: 350px;
+    left: 530px;
+    border-radius: 10px;
+    padding: 25px;
+    
+
+}
+
 body {
     background-image: url('IMAGES/1.2.jpg');
     background-repeat: no-repeat;
