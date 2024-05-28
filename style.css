@@ -6,7 +6,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(IMAGES/1.jpg);
+    background: url(IMAGES/1.jpg);
     background-position: center;
     background-size: cover;
     height: 109vh;
@@ -153,7 +153,7 @@ ul li a:hover{
     height: 380px;
     background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 450px;
+    top: 70px;
     left: 500px;
     border-radius: 10px;
     padding: 25px;
