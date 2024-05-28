@@ -28,7 +28,7 @@
 .logo{
     color:darkgreen ;
     font-size: 60px;
-    font-family: fantasy;
+    font-family: 'fantasy';
     padding-left: 20px;
     float: left;
     padding-top: 10px;
@@ -151,7 +151,7 @@ ul li a:hover{
 .form{
     width: 250px;
     height: 380px;
-    background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    background: linear-gradient(to top, white 50%,white 50%);
     position: absolute;
     top: 70px;
     left: 500px;
@@ -194,7 +194,7 @@ ul li a:hover{
 }
 
 ::placeholder{
-    color: white;
+    color: darkgreen;
     font-family: Arial;
 
 }
