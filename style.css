@@ -8,4 +8,44 @@ header{
     width: 100vw;
     height: 100vh;
     background-image: url("IMAGES/background\ 2.jpg");
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header-content {
+    margin-bottom: 150px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.header-content h1 {
+    font-size: 4vmin;
+}
+
+.line { 
+    width: 150px;
+    height: 4px;
+    background: gold;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+.header-content h2 { 
+    font-size: 7vmin;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.ctn {
+    padding: 8px 15px;
+    background: silver;
+    border-radius: 30px;
+    color: whitesmoke;
 }
